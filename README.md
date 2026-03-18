@@ -1,18 +1,152 @@
-# 💫 About Me:
-🔭 Currently working on backend development with Java, Spring Boot and .NET. <br>Interested in backend systems, DevOps and cloud-native applications.<br>🌱 Learning more about cloud infrastructure, Kubernetes and CI/CD practices.<br>💬 Ask me about Java, Spring Boot, Docker, Kubernetes or building full-stack applications.<br>⚡ I enjoy turning ideas into working systems and deploying them end-to-end.
+<!-- HEADER  -->
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1f6feb&height=200&section=header&text=Hi!%20I'm%20Alejandro%20Saez%20👨‍💻&fontSize=35&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=fadeIn)
 
+<h3 align="center">Backend Developer | Cloud & DevOps Enthusiast ☁️🚀</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-saez-perez-8056b4303) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alejandro.saezpz@gmail.com) 
+<p align="center">
+  Building scalable systems, automating pipelines and deploying ideas end-to-end.
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alejandrosaezpz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alejandrosaezpz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrosaezpz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alejandrosaezpz&style=for-the-badge&color=1f6feb"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alejandrosaezpz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🔭 Currently working on **backend development with Java, Spring Boot and .NET**
+- ☁️ Interested in **backend systems, DevOps and cloud-native applications**
+- 🌱 Learning more about **cloud infrastructure, Kubernetes and CI/CD**
+- 💬 Ask me about **Java, Spring Boot, Docker, Kubernetes or full-stack apps**
+- ⚡ I enjoy **turning ideas into real systems and deploying them end-to-end**
+
+---
+
+## ⚙️ Tech Stack
+
+<table align="center">
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring)
+![.NET](https://img.shields.io/badge/-.NET-5C2D91?logo=.net)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Databases</strong></td>
+<td>
+
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>DevOps & Cloud</strong></td>
+<td>
+
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/-Jenkins-2C5263?logo=jenkins)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+
+![Git](https://img.shields.io/badge/-Git-F05033?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-121011?logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-181717?logo=gitlab)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alejandrosaezpz&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrosaezpz&layout=compact&theme=tokyonight&border_radius=10"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/alejandrosaezpz/alejandrosaezpz/blob/output/snake.svg"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alejandrosaezpz&theme=tokyonight&border_radius=10"/>
+</p>
+
+---
+
+## 🚀 What I like to build
+
+- Scalable backend architectures  
+- Cloud-native applications  
+- CI/CD pipelines & automation  
+- Full-stack systems from idea to production  
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/alejandro-saez-perez-8056b4303">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  &nbsp;
+  <a href="mailto:alejandro.saezpz@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<!-- FOOTER -->
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:1f6feb,100:0d1117&height=120&section=footer)
