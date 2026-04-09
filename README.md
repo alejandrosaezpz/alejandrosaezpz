@@ -99,17 +99,27 @@
 </tr>
 </table>
 
----
+<!-----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alejandrosaezpz&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true"/>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrosaezpz&layout=compact&theme=tokyonight&border_radius=10"/>
+<p>
+  <img src="https://github-readme-stats.shion.dev/api?username=alejandrosaezpz&show_icons=true&theme=tokyonight&border_radius=10"/>
+</p>
+
+
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alejandrosaezpz&layout=compact&theme=tokyonight&border_radius=10"/>
+</p>
+
 
 </div>
+
+</div>-->
 
 ---
 
