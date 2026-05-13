@@ -1,10 +1,10 @@
 <!-- HEADER  -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1f6feb&height=200&section=header&text=Hi!%20I'm%20Alejandro%20Saez%20👨‍💻&fontSize=35&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=fadeIn)
 
-<h3 align="center">Backend Developer | Cloud & DevOps Enthusiast ☁️🚀</h3>
+<h3 align="center">DevOps & Cloud-Oriented Software Engineer | AI-Assisted Development ☁️🚀</h3>
 
 <p align="center">
-  Building scalable systems, automating pipelines and deploying ideas end-to-end.
+  Building reliable software, automating delivery workflows and exploring AI-assisted engineering.
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 ## 💫 About Me
 
-- 🔭 Currently working on **backend development with Java, Spring Boot and .NET**
-- ☁️ Interested in **backend systems, DevOps and cloud-native applications**
-- 🌱 Learning more about **cloud infrastructure, Kubernetes and CI/CD**
-- 💬 Ask me about **Java, Spring Boot, Docker, Kubernetes or full-stack apps**
-- ⚡ I enjoy **turning ideas into real systems and deploying them end-to-end**
+- 🔭 Currently working on **CI/CD pipelines, software quality automation and enterprise .NET applications**
+- ☁️ Interested in **DevOps, Cloud, Site Reliability Engineering, AI-assisted development and backend systems**
+- 🌱 Learning more about **AWS, Kubernetes, infrastructure automation, cloud-native practices and AI software engineering**
+- 💬 Ask me about **Java, Spring Boot, Docker, Kubernetes, Jenkins, SonarQube, AWS or AI-assisted workflows**
+- ⚡ I enjoy **turning ideas into reliable systems through automation, containers, cloud and AI-assisted development**
 
 ---
 
@@ -30,9 +30,12 @@
 <td><strong>Languages</strong></td>
 <td>
 
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 
 </td>
@@ -53,9 +56,10 @@
 <td><strong>Backend</strong></td>
 <td>
 
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot)
 ![.NET](https://img.shields.io/badge/-.NET-5C2D91?logo=.net)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+![WPF](https://img.shields.io/badge/-WPF-512BD4?logo=.net)
 ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens)
 
 </td>
@@ -65,9 +69,10 @@
 <td><strong>Databases</strong></td>
 <td>
 
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle)
 
 </td>
 </tr>
@@ -80,6 +85,20 @@
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-2C5263?logo=jenkins)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>AI & Automation</strong></td>
+<td>
+
+![AI](https://img.shields.io/badge/-AI%20Assisted%20Development-412991?logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
+![Automation](https://img.shields.io/badge/-Automation-1f6feb?logo=githubactions&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-FF6F00?logo=googlegemini&logoColor=white)
 
 </td>
 </tr>
@@ -91,9 +110,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05033?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-121011?logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?logo=gitlab)
+![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=subversion)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva)
+![Lens](https://img.shields.io/badge/-Lens-3D90CE?logo=kubernetes)
+![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-2496ED?logo=docker)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio)
 
 </td>
 </tr>
@@ -141,10 +162,12 @@
 
 ## 🚀 What I like to build
 
-- Scalable backend architectures  
-- Cloud-native applications  
-- CI/CD pipelines & automation  
-- Full-stack systems from idea to production  
+- CI/CD pipelines and automated delivery workflows  
+- Containerized applications with Docker and Kubernetes  
+- Backend systems with Java, Spring Boot and .NET  
+- Cloud-oriented solutions using AWS services  
+- AI-assisted software engineering workflows  
+- Secure and maintainable software following quality standards  
 
 ---
 
